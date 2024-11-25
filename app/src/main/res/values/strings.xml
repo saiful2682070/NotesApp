@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Notes App Final</string>
+    <string name="enter_your_email">Enter Your Email</string>
+    <string name="log_in_to_continue">Log In to Continue</string>
+    <string name="welcome_back">Welcome Back !</string>
+    <string name="enter_your_password">Enter Your Password</string>
+</resources>
